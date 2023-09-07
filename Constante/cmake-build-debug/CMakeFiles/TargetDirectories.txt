@@ -1,3 +1,0 @@
-C:/Users/sjoan/CLionProjects/untitled29/cmake-build-debug/CMakeFiles/untitled29.dir
-C:/Users/sjoan/CLionProjects/untitled29/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/sjoan/CLionProjects/untitled29/cmake-build-debug/CMakeFiles/rebuild_cache.dir
